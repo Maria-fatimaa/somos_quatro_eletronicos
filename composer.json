@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "twbs/bootstrap": "4.6.0"
+    }
+}
