@@ -3,12 +3,12 @@
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="./Midias/foto3.webp" class="d-block w-100 img-fluid" alt="Erro de reenderização">
+            <img src="./Midias/foto3.webp" class="d-block w-100 img-fluid"  alt="Erro de reenderização">
             <div class="carousel-item">
-            <img src="./Midias/foto2.jpg" class="d-block w-100 img-fluid" alt="Erro de reenderização">
+            <img src="./Midias/foto2.jpg" class="d-block w-100 img-fluid"  alt="Erro de reenderização">
             </div>
             <div class="carousel-item">
-            <img src="./Midias/foto1.jpg" class="d-block w-100 img-fluid" alt="Erro de reenderização">
+            <img src="./Midias/foto1.jpg" class="d-block w-100 img-fluid"  alt="Erro de reenderização">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"  data-bs-slide="prev">
