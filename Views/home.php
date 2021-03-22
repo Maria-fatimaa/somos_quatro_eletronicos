@@ -4,7 +4,6 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
             <img src="./Midias/foto3.webp" class="d-block w-100 img-fluid" alt="Erro de reenderização">
-            </div>
             <div class="carousel-item">
             <img src="./Midias/foto2.jpg" class="d-block w-100 img-fluid" alt="Erro de reenderização">
             </div>

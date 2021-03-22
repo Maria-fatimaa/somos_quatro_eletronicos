@@ -3,7 +3,7 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color:white;"> <!--bg-light adiciona um bg cinza-->
         <a class="navbar-brand" href="http://localhost/somos_quatro_eletronicos/">
-          <img src="./Midias/logo2.svg" /> 
+          <img src="./Midias/logo2.jpg" height= "90px" width= "150" > 
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,9 +19,6 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="http://localhost/somos_quatro_eletronicos/produto">Produtos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="http://localhost/somos_quatro_eletronicos/produto">Contatos</a>
             </li>
           </ul>
         </div>
