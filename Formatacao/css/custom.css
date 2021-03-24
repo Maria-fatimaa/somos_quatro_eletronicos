@@ -1,6 +1,7 @@
 body,
 html{
     font-family: 'Roboto', sans-serif;
+   
 }
 
 #header {
@@ -18,7 +19,7 @@ html{
     font-weight: 700;
     padding-left: 0;
     padding-right: 0;
-    color: black;
+    color: rgb(20, 104, 201);
     border-bottom: solid 4px transparent;
 }
 
@@ -29,4 +30,10 @@ html{
 
 #slider{
     margin-top: 100px;
+
 }
+
+#header img.d-block w-100 {
+    display: block;
+    margin-left: 10%;
+    margin-right: 2% }

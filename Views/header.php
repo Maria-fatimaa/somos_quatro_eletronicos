@@ -1,9 +1,9 @@
 <!--Inicio do Header -->    
 <div id="header">
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:white;"> <!--bg-light adiciona um bg cinza-->
+    <nav class="navbar navbar-expand-lg navbar-light" > <!--bg-light adiciona um bg cinza-->
         <a class="navbar-brand" href="http://localhost/somos_quatro_eletronicos/">
-          <img src="./Midias/logo2.jpg" height= "90px" width= "150" > 
+          <img src="./Midias/logo-oficiall.jpg" height= "100px" width= "260" > 
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
