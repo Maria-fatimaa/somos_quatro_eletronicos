@@ -32,8 +32,7 @@ html{
     margin-top: 100px;
 
 }
-
-#header img.d-block w-100 {
-    display: block;
-    margin-left: 10%;
-    margin-right: 2% }
+     
+#header .imagem1{
+    max-height: 200px; overflow: hidden;
+    height: 50%; width: 50%; position:relative; top:.5;}
