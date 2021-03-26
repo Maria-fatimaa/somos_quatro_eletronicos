@@ -5,13 +5,13 @@ Class homeController extends Controller{ //unico arquivo obrigatorio ter uma fun
     {
         //$u = new Usuarios();
         //$dados = $u->getUsuarios();
-        $dados = [
-        "nome" => "fátima",
-        "sobrenome" => "moreira",
-        ];
+        //$dados = [
+        //"nome" => "fátima",
+        //"sobrenome" => "moreira",
+        //];
         // $nome = "fátima"
         // sobrenome = "moreira"
-        $this->carregarTemplate('home',$dados);
+        $this->carregarTemplate('home');
     }
 
 }

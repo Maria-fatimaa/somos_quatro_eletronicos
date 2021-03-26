@@ -4,7 +4,7 @@ Class cadastroController extends Controller{ //unico arquivo obrigatorio ter uma
     public function index()
     {
         $u = new Usuarios();
-        //$info = $u->setUsuarios();
+        $info = $u->setUsuarios();
         $this->carregarTemplate('cadastro');
     }
 
