@@ -13,7 +13,7 @@
 			</hgroup>
 			<p>Alunas do IFRN, curso Técnico Integrado em Informática.</p>
 			</br>
-			<hgroup id=PaginaInicial>
+			<hgroup id="PaginaInicial">
 				<h2>por quê escolhemos fazer esse site?</h2>
 			</hgroup>
 			<p> A ideia surgiu .........</p>
