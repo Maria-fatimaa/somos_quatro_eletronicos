@@ -9,31 +9,24 @@
     
     <!-- Featured Products -->
     <!--seria legal criar um for em php com uma função de acesso ao banco que pegasse os produtos diretamente do BD -->
-    
+    <!--Imagem, nome_produto, preço, descrição -->
     <div class="col-md-3 col-6 product-block">
       
-<a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429444/resize/360/450?1614272621" alt="Wacom Bamboo Tablet" /></a>
+        <a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429444/resize/360/450?1614272621" alt="Wacom Bamboo Tablet" /></a>
 
-<div class="caption">
-  <h3><a href="/wacom-tablet">Wacom Bamboo Tablet</a></h3>
-  <div class="price-mob">
-    
-    
-    $100.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
-  <p class="product-block-description d-none d-md-block">
-
-    
-      
-      Just getting going with your art? Transitioning from paper to computer-based work? The Bamboo Splash is a great way to explore your interests, with...
-      
-    
-  </p>
-</div>
-
+        <div class="caption">
+          <h3><a href="/wacom-tablet">Wacom Bamboo Tablet</a></h3>
+          <div class="price-mob">           
+            
+            $100.000
+                 
+          </div>
+          <div class="clearfix"></div>
+          <p class="product-block-description d-none d-md-block">  
+              
+              Just getting going with your art? Transitioning from paper to computer-based work? The Bamboo Splash is a great way to explore your interests, with...          
+          </p>
+        </div>
     </div>
   
     <div class="col-md-3 col-6 product-block">
