@@ -8,6 +8,7 @@
 
     
     <!-- Featured Products -->
+    <!--seria legal criar um for em php com uma função de acesso ao banco que pegasse os produtos diretamente do BD -->
     
     <div class="col-md-3 col-6 product-block">
       

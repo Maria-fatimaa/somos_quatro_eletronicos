@@ -6,7 +6,7 @@ html{
 
 #header {
     width: 100%;
-    background-color: transparent;
+    height: 100px;
     transition: background ease-out 0.2s;
 }
 
@@ -36,3 +36,26 @@ html{
 #header .imagem1{
     max-height: 200px; overflow: hidden;
     height: 50%; width: 50%; position:relative; top:.5;}
+
+/*Carousel */
+#carouselExampleDark img{
+    height: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
