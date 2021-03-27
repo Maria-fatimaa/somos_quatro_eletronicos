@@ -9,7 +9,7 @@
     
     <!-- Featured Products -->
     <!--seria legal criar um for em php com uma função de acesso ao banco que pegasse os produtos diretamente do BD -->
-    <!--Imagem, nome_produto, preço, descrição -->
+    <!-- nome_produto, preço, descrição, imagem -->
     <div class="col-md-3 col-6 product-block">
       
         <a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429444/resize/360/450?1614272621" alt="Wacom Bamboo Tablet" /></a>

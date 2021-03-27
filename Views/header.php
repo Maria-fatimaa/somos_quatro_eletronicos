@@ -23,6 +23,8 @@
             <li class="nav-item">
               <a class="nav-link" href="http://localhost/somos_quatro_eletronicos/cadastro">Cadastre-se</a>
             </li>
+           
+           
           </ul>
         </div>
     </nav>
