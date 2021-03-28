@@ -1,15 +1,66 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
 
-<!-- Aqui que irão implementar a view de formulário cadastro -->
+		<!-- Website CSS style -->
+		<link rel="stylesheet" type="text/css" href="assets/css/main.css">
 
-<form id="form"  method="POST">
-        <input type="text" name="nome" id="nome" placeholder="Digite seu nome" required \>
-        <input type="text" name="email" id="email" placeholder="Digite seu e-mail" required \>
-        <input type="submit" name="acao" value="Enviar" />
-</form>
+		<!-- Website Font style -->
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+		
+		<!-- Google Fonts -->
+		<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 
-<?php
+		<title>Cadastro</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row main">
+				<div class="panel-heading">
+	               <div class="panel-title text-center">
+	               		<h1 class="title"> Cadastre-se </h1>
+	               		<hr />
+	               	</div>
+	            </div> 
+				<div class="main-login main-center">
+					<form class="form-horizontal" method="post" action="#">
+						
+						<div class="form-group">
+							<label for="name" class="cols-sm-2 control-label"> Seu Name</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
+									<input type="text" class="form-control" name="name" id="nome"  placeholder=""/>
+								</div>
+							</div>
+						</div>
 
-    $u = new Usuarios();
-    $info = $u->setUsuarios();
+						<div class="form-group">
+							<label for="email" class="cols-sm-2 control-label"> Seu Email</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
+									<input type="text" class="form-control" name="email" id="email"  placeholder=""/>
+								</div>
+							</div>
+						</div>
 
-?>
+						
+
+						<div class="form-group ">
+							<button type="button" class="btn btn-primary btn-lg btn-block login-button"> Registre-se </button>
+						</div>
+
+        <?php
+
+            $u = new Usuarios();
+            $info = $u->setUsuarios();
+
+    ?>
