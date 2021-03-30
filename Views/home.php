@@ -6,7 +6,7 @@
   </div>
   <div class="carousel-inner"> 
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="./Midias/fone-preto.jpeg" class="d-block w-100" alt="...">
+      <img id="imagem1" src="./Midias/fone-preto.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h1>BEM-VINDO!</h1>
         <h5>SOMOS QUATRO</h5>
