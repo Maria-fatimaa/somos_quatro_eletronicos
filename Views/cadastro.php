@@ -15,6 +15,5 @@
 
     $u = new Usuarios();
     $info = $u->setUsuarios();
-	echo $info;
 
 ?>

@@ -21,7 +21,6 @@ require_once "Conexao.php";
         {
     
             if (isset($_POST['acao'])){ 
-                echo "Aqui";
                 $nome = $_POST['nome'];
                 $email = $_POST['email'];
                 if ($nome != null && $email != null){
