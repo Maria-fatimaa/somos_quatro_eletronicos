@@ -19,7 +19,9 @@ require_once "Conexao.php";
         }
         public function setUsuarios()
         {
-            if (isset($_POST['acao'])){  //name 
+    
+            if (isset($_POST['acao'])){ 
+                echo "Aqui";
                 $nome = $_POST['nome'];
                 $email = $_POST['email'];
                 if ($nome != null && $email != null){
