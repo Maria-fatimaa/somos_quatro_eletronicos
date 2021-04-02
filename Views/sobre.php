@@ -49,7 +49,7 @@
   
     </header>
 
-    <div class="p-5 mb-4 bg-light rounded-3">
+    <div id= "sobre" class="p-5 mb-4 bg-light rounded-3">
       <div class="container-fluid py-5">
         <h1 class="display-5 fw-bold">Somos Quatro Eletrônicos</h1>
         <p class="col-md-8 fs-4"> Foi criado com um intuito de ajudar vendedores menores para auxiliar na divulgação de seus produtos, já que o custo benefício seria menor em comparação com os sites que pussui a opção compra.</p>
