@@ -16,17 +16,10 @@
     <div class="carousel-item" data-bs-interval="2000">
       <img src="./Midias/teclado2.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
+        <h5> Aproveite a visita em nosso mostruário :)</h5>
+        <p> Não perca tempo, entra em contato com os nossos revendedores!</p>
       </div>
-    </div>
-    <div class="carousel-item">
-      <img src="" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
+    
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
