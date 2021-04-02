@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.82.0">
-    <title>Sobre Nós · Bootstrap v5.0</title>
+    <title>Sobre Nós</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/jumbotron/">
 
@@ -56,7 +56,7 @@
 
     <div class="p-5 mb-4 bg-light rounded-3">
       <div class="container-fluid py-5">
-        <h1 class="display-5 fw-bold">Somos Quatro - Eletrônicos</h1>
+        <h1 class="display-5 fw-bold">Somos Quatro Eletrônicos</h1>
         <p class="col-md-8 fs-4"> Foi criado com um intuito de ajudar vendedores menores para auxiliar na divulgação de seus produtos, já que o custo benefício seria menor em comparação com os sites que pussui a opção compra.</p>
       </div>
     </div>
@@ -65,14 +65,17 @@
       <div class="col-md-6">
         <div class="h-100 p-5 text-white bg-dark rounded-3">
           <h2>Nossa História</h2>
-          <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.</p>
+          <p> O intuito do projeto além da aprovação de nós, alunas, tem por objetivo de colocar em prática o que aprendemos em sala de aula, com a criação do site conseguimosnjuntar todos os aprendizados em um só local, e assim o site ganhou vida.</p>
         </div>
       </div>
       <div class="col-md-6">
         <div class="h-100 p-5 bg-light border rounded-3">
           <h2>Desenvolvedoras</h2>
           <p>Esse site foi desenvolvido pelas estudantes do IFRN-CM, do curso Tecnico Integrado em Informática. </p>
-		  <p>Ângela Nunes - <a href=""> </a> </p>
+		  <p>Ângela Samara - <a href="angelanuness__"> </a> </br></p>
+		  <p>Jezana Hadassa - <a href=>  </a> </p>
+		  <p>Maria Fátima - <a href=>< </a> </p>
+		  <p>Sthefany Maniele - <a href=>< </a> </p>
         </div>
       </div>
     </div>
